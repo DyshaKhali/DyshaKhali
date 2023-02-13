@@ -1,20 +1,10 @@
-<div id="header" align="center">
-  <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="100"/>
-</div>
-
-<h1 align="center">IM Khalikov Eduard
+<h1 align="center">Khalikov Eduard
 <h3 align="center">Here is my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">repo</a>
-<h3 align="center">Computer science student, game and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
+<h3 align="center">Computer science student / game / sites and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
 
----
-
-<div align="center">
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder2.gif" width="600" height="300"/>
+<div id="header" align="center">
+  <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="200"/>
 </div>
-
----
-
-### :man_technologist: About Me :
 
 I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> from Russia.
 
