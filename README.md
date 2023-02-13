@@ -6,7 +6,7 @@
   <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="350"/>
 </div>
 
-I am a Developer from Russia. <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> <img src=" https://github.com/DyshaKhali/DyshaKhali/blob/main/images/iconrussia.png" width="30"> 
+I am a Developer from Russia. <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/iconrussia.png" width="30"> 
 
 - :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building applications.
 
