@@ -1,12 +1,17 @@
 <h1 align="center">Khalikov Eduard
-<h3 align="center">Here is my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">repo</a>
+  
+  ---
+  
+<h3 align="center">Check my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">Repositories</a>
 <h3 align="center">Computer science student / game / sites and application developer</h3>
 
 <div id="header" align="center">
   <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="350"/>
 </div>
 
-I am a Developer from Russia. <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/russia-icon.png" width="30"> 
+---
+
+### I am a Developer from Russia. <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/russia-icon.png" width="20"> 
 
 - :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building applications.
 
@@ -14,7 +19,7 @@ I am a Developer from Russia. <img src="https://github.com/nelogeek/nelogeek/raw
 
 - :zap: In my free time, I create games and read tech articles.
 
-- :mailbox:How to reach me: ...
+- :mailbox:How to reach me: ... working on it ...
 
 ---
 
