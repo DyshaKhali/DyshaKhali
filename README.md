@@ -1,12 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder.webp" width="100"/>
+  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/work.gif" width="100"/>
 </div>
 
-<a href="https://github.com/nelogeek" target="_blank">
-
-<h1 align="center">IM DyshaKhali
+<h1 align="center">IM Khalikov Eduard
 <h3 align="center">Here is my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">repo</a>
-<img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, game and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
 
 ---
