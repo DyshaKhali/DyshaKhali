@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/work.gif" width="100"/>
+  <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="100"/>
 </div>
 
 <h1 align="center">IM Khalikov Eduard
