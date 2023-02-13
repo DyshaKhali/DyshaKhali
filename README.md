@@ -2,7 +2,10 @@
   <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder.webp" width="100"/>
 </div>
 
-<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 <a href="https://github.com/nelogeek" target="_blank">𝓝𝓮𝓵𝓸𝓰𝓮𝓮𝓴</a> 
+<a href="https://github.com/nelogeek" target="_blank">
+
+<h1 align="center">IM DyshaKhali
+<h3 align="center">Here is my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">repo</a>
 <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, game and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
 
