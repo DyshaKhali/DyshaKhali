@@ -1,15 +1,15 @@
-<h1 align="center">Khalikov Eduard
+<h1 align="center">Khalikov Eduard </h1>
   
   ---
   
-<h3 align="center">Check my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">Repositories</a>
+<h3 align="center">Check my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">Repositories</a></h3>
 <h3 align="center">Computer science student / game / sites and application developer</h3>
 
 <div id="header" align="center">
   <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="350"/>
 </div>
 
----
+  ---
 
 ### I am a Developer from Russia. <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/russia-icon.png" width="20"> 
 
