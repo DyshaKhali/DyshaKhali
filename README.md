@@ -1,27 +1,9 @@
-
-
-<!--
-**nelogeek/nelogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div id="header" align="center">
   <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder.webp" width="100"/>
 </div>
 
 <h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 <a href="https://github.com/nelogeek" target="_blank">𝓝𝓮𝓵𝓸𝓰𝓮𝓮𝓴</a> 
-<img src="https://github.com/nelogeek/nelogeek/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, game and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
 
 ---
