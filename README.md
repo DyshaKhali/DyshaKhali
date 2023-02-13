@@ -1,11 +1,11 @@
 <h1 align="center">Khalikov Eduard
 <h3 align="center">Here is my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">repo</a>
-<h3 align="center">Computer science student / game / sites and application developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/russia_c.png" height="25"/></h3>
+<h3 align="center">Computer science student / game / sites and application developer</h3>
 
 <div id="header" align="center">
-  <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="200"/>
+  <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/work.gif" width="350"/>
 </div>
-
+--
 I am a Developer <img src="https://github.com/nelogeek/nelogeek/raw/main/images/coder3.gif" width="30"> from Russia.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend and frontend for building applications.
