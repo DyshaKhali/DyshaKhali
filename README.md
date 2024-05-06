@@ -34,10 +34,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DyshaKhali&theme=onedark)](https://github.com/DyshaKhali/github-profile-trophy)
-
----
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DyshaKhali&theme=solarized_dark)
 
 
