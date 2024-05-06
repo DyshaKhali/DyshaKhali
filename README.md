@@ -3,7 +3,7 @@
   ---
   
 <h3 align="center">Check my <a href="https://github.com/DyshaKhali?tab=repositories" target="_blank">Repositories</a></h3>
-<h3 align="center">Computer science student / game / sites and application developer</h3>
+<h3 align="center">ASOIU student / web and application developer</h3>
 
   ---
 
