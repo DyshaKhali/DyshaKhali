@@ -9,32 +9,20 @@
 
 ### I am a Developer from Russia. <img src="https://github.com/DyshaKhali/DyshaKhali/blob/main/images/russia-icon.png" width="20"> 
 
-- :telescope: I’m working as a Software Engineer and Frontend developer.
+- :telescope: I’m working as a developer.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I create games and exploring new features.
-
-- :mailbox:How to reach me: ... working on it ...
-
+- :zap: In my free time, I'm exploring new features.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Stack :
 
-<div>
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/unity_w.png" width="85" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/cplusplus-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/html5-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/css3-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/linux-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/bash-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/git-plain-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/matlab-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nelogeek/nelogeek/raw/main/images/pl/photoshop-plain.svg" width="40" height="40"/>&nbsp;
-</div>
+ - C#, .NET, .NET Core
+ - CSS, Bootstrap, HTML5, JS, React
+ - Python, Dart, Flutter
+ - PostgreSQL, MSSQL, MongoDB
+ - Unit-test, Docker
 
 ---
 
